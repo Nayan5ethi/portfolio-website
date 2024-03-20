@@ -5,6 +5,7 @@ This is a portfolio website project created using React. It showcases my skills,
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
@@ -17,6 +18,10 @@ This is a portfolio website project created using React. It showcases my skills,
 - Showcase my work through project galleries.
 - Provide contact information for potential clients or employers.
 - Responsive design for optimal viewing on different devices.
+
+## Demo
+
+You can view a live demo of the website [here](https://nayansethi.netlify.app/).
 
 ## Installation
 
