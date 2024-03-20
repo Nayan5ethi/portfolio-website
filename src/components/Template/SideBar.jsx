@@ -5,7 +5,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src="/src/assets/me.jpg" alt="" />
+        <img src="/images/me.jpg" alt="" />
       </Link>
       <header>
         <h2>Nayan Sethi</h2>
