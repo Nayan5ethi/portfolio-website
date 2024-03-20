@@ -2,10 +2,10 @@ import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import ReactGA from 'react-ga';
 
-const { MODE, REACT_APP_GA_TRACKING_ID } = import.meta.env;
+const { MODE, VITE_USER_GA_TRACKING_ID } = import.meta.env;
 
 if (MODE === 'production') {
-  ReactGA.initialize(REACT_APP_GA_TRACKING_ID);
+  ReactGA.initialize(VITE_USER_GA_TRACKING_ID);
 }
 
 const Analytics = () => {
